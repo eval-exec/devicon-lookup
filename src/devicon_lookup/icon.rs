@@ -131,6 +131,7 @@ static EXTENSION_MAP: phf::Map<&'static str, char> = phf_map! {
     "ebuild"        => '\u{f30d}', // 
     "editorconfig"  => '\u{e615}', // 
     "ejs"           => '\u{e618}', // 
+    "el"            => '\u{e632}', // 
     "elm"           => '\u{e62c}', // 
     "env"           => '\u{f462}', // 
     "eot"           => '\u{f031}', // 
