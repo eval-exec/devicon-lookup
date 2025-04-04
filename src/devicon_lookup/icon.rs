@@ -235,6 +235,7 @@ static EXTENSION_MAP: phf::Map<&'static str, char> = phf_map! {
     "odt"           => '\u{f1c2}', // 
     "ogg"           => '\u{f001}', // 
     "ogv"           => '\u{f03d}', // 
+    "org"           => '\u{e633}', // 
     "otf"           => '\u{f031}', // 
     "part"          => '\u{f43a}', // 
     "patch"         => '\u{f440}', // 
